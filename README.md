@@ -1,2 +1,2 @@
-# relica
-Docker image for Relica
+# Relica
+Docker image for [Relica](https://relicabackup.com/)
